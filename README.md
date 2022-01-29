@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msraj95" alt="msraj95" /></a> </p>
 
-- 👨‍💻 You can also check out my portfolio at [https://msraj95.github.io/](https://msraj95.github.io/my-portfolio)
+- 👨‍💻 You can also check out my profile at [https://msraj95.github.io/](https://msraj95.github.io/my-portfolio)
 
 - 🌱 I’m currently learning **ReactJs**
 
