@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-seraj-7b8968110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-seraj-7b8968110" height="30" width="40" /></a>
 <a href="https://instagram.com/the.silent_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.silent_sam" height="30" width="40" /></a>
- <a href="mailto:Qmdseraj@gmail.com" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/msraj95/profile/blob/master/git-img/email.png" /></a>
+ <a href="mailto:Qmdseraj@gmail.com" target="_blank"><img  alt="Gmail" width="35px" height="35px" src="https://github.com/msraj95/profile/blob/master/git-img/email.png" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
