@@ -2,7 +2,7 @@
 <h3 align="left">About me</h3>
 🌱 I am an India based computer science graduate and Frontend developer. I’m currently learning ReactJs, I am passionate about coding and web      development. 
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+<!-- - 💬 Ask me about **HTML, CSS, JavaScript** -->
 - 📫 How to reach me **Qmdseraj@gmail.com**
 - ⚡ Fun fact ⚡ -
     I think I am **funny XD** , I am open for **collaborations and projects**
