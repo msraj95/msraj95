@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msraj95&label=Profile%20views&color=0e75b6&style=flat" alt="msraj95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msraj95" alt="msraj95" /></a> </p>
-<hr/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-seraj-7b8968110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-seraj-7b8968110" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JS" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/javascript.png" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JS" width="35px" src="https://github.com/msraj95/profile/blob/master/git-img/javascript.png" /></a> 
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/html.png" /></a>
  <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/css.png" /></a>
   
