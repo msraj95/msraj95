@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JS" width="35px" src="https://github.com/msraj95/profile/blob/master/git-img/javascript.png" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JS" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/javascript.png" /></a> 
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/html.png" /></a>
  <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/css.png" /></a>
   
