@@ -6,7 +6,7 @@
 - 📫 How to reach me **Qmdseraj@gmail.com**
 - ⚡ Fun fact ⚡ -
     I think I am **funny XD** , I am open for **collaborations and projects**
-- 👨‍💻 You can also check out my profile at [https://msraj95.github.io/](https://msraj95.github.io/my-portfolio)
+- 👨‍💻 You can also check out my profile at [https://msraj95.github.io/](https://seraj.netlify.app)
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msraj95&label=Profile%20views&color=0e75b6&style=flat" alt="msraj95" /> </p>
 
