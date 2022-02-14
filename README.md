@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Seraj</h1>
 <h3 align="left">About me</h3>
-🌱 I am an India based computer science graduate and Frontend developer. I’m currently learning ReactJs, I am passionate about coding and web      development. 
+🌱 I am an India based computer science graduate and Frontend developer. I’m currently working on ReactJs, I am passionate about coding and web      development. 
 
 <!-- - 💬 Ask me about **HTML, CSS, JavaScript** -->
 - 📫 How to reach me **Qmdseraj@gmail.com**
